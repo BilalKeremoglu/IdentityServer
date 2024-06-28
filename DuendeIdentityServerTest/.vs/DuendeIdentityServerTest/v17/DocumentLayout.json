@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bilal\\Bilal\\Github\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0902564F-C0A4-4ECE-811B-0A69575CF53F}|DuendeIdentityServerTest\\DuendeIdentityServerTest.csproj|c:\\users\\bilal\\bilal\\github\\duendeidentityservertest\\duendeidentityservertest\\duendeidentityservertest\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0902564F-C0A4-4ECE-811B-0A69575CF53F}|DuendeIdentityServerTest\\DuendeIdentityServerTest.csproj|solutionrelative:duendeidentityservertest\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0902564F-C0A4-4ECE-811B-0A69575CF53F}|DuendeIdentityServerTest\\DuendeIdentityServerTest.csproj|c:\\users\\bilal\\bilal\\github\\duendeidentityservertest\\duendeidentityservertest\\duendeidentityservertest\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0902564F-C0A4-4ECE-811B-0A69575CF53F}|DuendeIdentityServerTest\\DuendeIdentityServerTest.csproj|solutionrelative:duendeidentityservertest\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0902564F-C0A4-4ECE-811B-0A69575CF53F}|DuendeIdentityServerTest\\DuendeIdentityServerTest.csproj|c:\\users\\bilal\\bilal\\github\\duendeidentityservertest\\duendeidentityservertest\\duendeidentityservertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0902564F-C0A4-4ECE-811B-0A69575CF53F}|DuendeIdentityServerTest\\DuendeIdentityServerTest.csproj|solutionrelative:duendeidentityservertest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0902564F-C0A4-4ECE-811B-0A69575CF53F}|DuendeIdentityServerTest\\DuendeIdentityServerTest.csproj|c:\\users\\bilal\\bilal\\github\\duendeidentityservertest\\duendeidentityservertest\\duendeidentityservertest\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0902564F-C0A4-4ECE-811B-0A69575CF53F}|DuendeIdentityServerTest\\DuendeIdentityServerTest.csproj|solutionrelative:duendeidentityservertest\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bilal\\Bilal\\Github\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DuendeIdentityServerTest\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Bilal\\Bilal\\Github\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DuendeIdentityServerTest\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T08:39:02.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bilal\\Bilal\\Github\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DuendeIdentityServerTest\\Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Bilal\\Bilal\\Github\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\Models\\LoginDto.cs",
+              "RelativeToolTip": "DuendeIdentityServerTest\\Models\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:28:54.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Bilal\\Bilal\\Github\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DuendeIdentityServerTest\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Bilal\\Bilal\\Github\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DuendeIdentityServerTest\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:07:52.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bilal\\Bilal\\Github\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\Program.cs",
+              "RelativeDocumentMoniker": "DuendeIdentityServerTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Bilal\\Bilal\\Github\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\DuendeIdentityServerTest\\Program.cs",
+              "RelativeToolTip": "DuendeIdentityServerTest\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:27:46.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
